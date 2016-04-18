@@ -147,7 +147,7 @@
         "title": "MusicCloud: SoundCloud based mobile application",
         "desc": [
           "Worked in a team of 3 to demonstrate the potential use of audio recorder in mobile device.",
-          "Developed a android application with SoundCloud API and YouTube API.",
+          "Developed an android application with SoundCloud API and YouTube API.",
           "Devised methods to cut off clearing unwanted noise and multithreading",
           "http://goo.gl/gyQ36A"
         ]
@@ -157,7 +157,7 @@
         "title": "Spammer Detection  by Extracting Message Parameters from Spam Emails",
         "desc": [
           "Worked in a team of 4 to detect and occlude the malicious actions of the spammers",
-          "Developed a WPF application with on a Institute level data set.",
+          "Developed a WPF application with on an Institute level data set.",
           "Implemented two clustering algorithms to study the performance efficiency",
           "http://goo.gl/2EsrB1"
         ]
