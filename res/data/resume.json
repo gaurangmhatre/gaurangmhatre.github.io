@@ -73,9 +73,9 @@
         "title": "Developing a visualization dashboard using Angular JS for Portfolio Rebalancer",
         "desc": [
           "Developed an AngularJS based visualization dashboard for Rebalancer.",
-          "Developed a REST framework using ASP.net and AngularJS to communicate with the IIS to issue a query and fetch the results",
-          "Developed a server endpoint to transform the query results into JSONs that AngularJS needed to render visualizations",
-          "Developed SQL logic for Rebalancing the portfolio's",
+          "Developed a REST framework using ASP.net and AngularJS to communicate with the IIS to issue a query and fetch the results.",
+          "Developed a server endpoint to transform the query results into JSONs that AngularJS needed to render visualizations.",
+          "Developed SQL logic for Rebalancing the portfolio's.",
           "Gave initial deployment support for a couple of months."
         ],
         "link": ""
@@ -135,7 +135,7 @@
         "type": "Life",
         "title": "Graduated from University of Mumbai",
         "desc": [
-          "Earned my Bachelor of Engineering degree in Computer Engineering",
+          "Earned my Bachelor of Engineering degree in Computer Engineering.",
           "Achieved Distinction"
         ],
         "link": ""
@@ -156,9 +156,9 @@
         "type": "Project",
         "title": "Spammer Detection  by Extracting Message Parameters from Spam Emails",
         "desc": [
-          "Worked in a team of 4 to detect and occlude the malicious actions of the spammers",
+          "Worked in a team of 4 to detect and occlude the malicious actions of the spammers.",
           "Developed a WPF application on a sample data set of 2GB.",
-          "Implemented two clustering algorithms to study the performance efficiency",
+          "Implemented two clustering algorithms to study the performance efficiency.",
           "http://goo.gl/2EsrB1"
         ]
       }
