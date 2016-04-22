@@ -8,7 +8,7 @@
       "gaurangmhatre@gmail.com",
       "gaurang.mhatre@spit.ac.in"
     ],
-    "tel": "+1-(213)-378-5624",
+    "tel": "+91-9757023131",
     "city": "Mumbai",
     "state": "MH",
     "pin": "401201"
@@ -72,11 +72,11 @@
         "type": "Project",
         "title": "Developing a visualization dashboard using Angular JS for Portfolio Rebalancer",
         "desc": [
-          "Developed a AngularJS based visualization dashboard for Rebalancer.",
+          "Developed an AngularJS based visualization dashboard for Rebalancer.",
           "Developed a REST framework using ASP.net and AngularJS to communicate with the IIS to issue a query and fetch the results",
           "Developed a server endpoint to transform the query results into JSONs that AngularJS needed to render visualizations",
           "Developed SQL logic for Rebalancing the portfolio's",
-          "Gave initial deployment support for couple of months."
+          "Gave initial deployment support for a couple of months."
         ],
         "link": ""
       }
@@ -86,8 +86,8 @@
         "type": "Project",
         "title": "Spruce Investment Advisors",
         "desc": [
-          "The relativity fresh client engagement for Gravitas.",
-          "First employee to setup AngularJS and ASP.Net development environment in client's domain.",
+          "Spruce was the relativity fresh client engagement for Gravitas.",
+          " The First employee to plan AngularJS and ASP.Net development environment in client's domain.",
           "Developed Operations Portal for the Client's Investor team.",
           "Developed a Dashboard for running python based Reports in client's environment."
         ],
@@ -112,7 +112,7 @@
         "title": "Firtree Partners",
         "desc": [
           "Firtree has 82 Billion USD under management.",
-          "Developed various reports and Services mainly in WCF,SSIS and SSRS.",
+          "Developed various reports and Services mainly in WCF, SSIS and SSRS.",
           "Implemented a WCF service to import >100,000 daily transactions from 9 different prime brokers."
         ],
         "link": ""
@@ -124,7 +124,7 @@
         "title": "Gravitas",
         "desc": [
           "Started Working as Software Engineer.",
-          "​Primary role is to be a part of software Co Sourcing team and understand the client needs and provide logically & programmatically accurate solution in minimum time.",
+          "​Primary role is to be a part of software Co-Sourcing team and understand the client needs and provide logically & programmatically accurate solution in minimum time.",
           "Duration: 1 year 10 months (July 2014 - April 2016)"
         ],
         "link": ""
