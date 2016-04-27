@@ -239,3 +239,47 @@ MAIN PAGE STYLINGS
 .progress-bar-danger {
     background-color: #2f2b2b;
 }
+
+
+
+/*Polar Clock*/
+.arc-text {
+  font: 16px sans-serif;
+   color: #ffffff;
+}
+
+.arc-center {
+  fill: none;
+}
+
+.arc-body{
+    fill: #adadad;
+}
+
+
+#credit {
+  position: absolute;
+  font: 10px sans-serif;
+  right: 10px;
+  bottom: 10px;
+  color: #ddd;
+}
+
+#credit a {
+  color: inherit;
+}
+
+#chart {
+  color: #ffffff;
+  hight: 500px;
+  width: 500px;
+}
+
+#AgePolarClock {
+    margin-top: 100vh;
+    padding-top: 70px;
+    background: white;
+    box-shadow: 0 5px 5px 5px black;
+    
+}
+
