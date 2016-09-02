@@ -52,7 +52,7 @@ $(document).ready(function() {
             $("#csharp_progress").css("width", "85%");
         }
         if (isScrolledIntoView($("#java_progress"))) {
-            $("#java_progress").css("width", "75%");
+            $("#java_progress").css("width", "87%");
         }
         if (isScrolledIntoView($("#c_progress"))) {
             $("#c_progress").css("width", "65%");

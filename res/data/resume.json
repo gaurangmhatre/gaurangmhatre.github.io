@@ -2,16 +2,16 @@
   "personal_info": {
     "first_name": "Gaurang",
     "last_name": "Mhatre",
-    "position": "Softwear Engineer",
-    "institute": "Gravitas",
+    "position": "Softwear Engineering",
+    "institute": "San Jose State University",
     "email": [
       "gaurangmhatre@gmail.com",
-      "gaurang.mhatre@spit.ac.in"
+      "gaurang.mhatre@sjsu.edu"
     ],
-    "tel": "+91-9757023131",
-    "city": "Mumbai",
-    "state": "MH",
-    "pin": "401201"
+    "tel": "+1-408-831-8859",
+    "city": "San Jose",
+    "state": "CA",
+    "pin": "95112"
   },
   "links": {
     "LinkedIn": "https://in.linkedin.com/in/gaurang-mhatre-77a96b45"
@@ -64,7 +64,11 @@
     "Windows",
     "PhotoShop",
     "Eclipse",
-    "Oracle 10g"
+    "Oracle 10g",
+    "MongoDB",
+    "JUnit",
+    "NUnit"
+      
   ],
   "timeline": {
     "FEB 2016": [
@@ -99,7 +103,7 @@
         "type": "Project",
         "title": "The Gravitas platform: Reconciliation Engine",
         "desc": [
-          "Engine is built for Position and Security reconciliation with flexible SQL based feed­config settings.",
+          "This Engine was built for Position and Security reconciliation with flexible SQL based feed­config settings.",
           "​Lead a team of 3 to setup 50 feeds in less than 2 months.",
           "Contributed to streamline the configuration process."
         ],
@@ -149,7 +153,7 @@
           "Worked in a team of 3 to demonstrate the potential use of audio recorder in mobile device.",
           "Developed an android application with SoundCloud API and YouTube API.",
           "Devised methods to cut off clearing unwanted noise and multithreading",
-          "http://goo.gl/gyQ36A"
+          "Published paper: http://goo.gl/gyQ36A"
         ]
       },
       {
@@ -159,7 +163,7 @@
           "Worked in a team of 4 to detect and occlude the malicious actions of the spammers.",
           "Developed a WPF application on a sample data set of 2GB.",
           "Implemented two clustering algorithms to study the performance efficiency.",
-          "http://goo.gl/2EsrB1"
+          "Published paper: http://goo.gl/2EsrB1"
         ]
       }
     ],
