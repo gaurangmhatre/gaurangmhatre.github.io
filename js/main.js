@@ -67,10 +67,10 @@ $(document).ready(function() {
             $("#js_progress").css("width", "77%");
         }
         if (isScrolledIntoView($("#angular_progress"))) {
-            $("#angular_progress").css("width", "75%");
+            $("#angular_progress").css("width", "74%");
         }
         if (isScrolledIntoView($("#node_progress"))) {
-            $("#node_progress").css("width", "37%");
+            $("#node_progress").css("width", "75%");
         }
         if (isScrolledIntoView($("#php_progress"))) {
             $("#php_progress").css("width", "55%");
@@ -81,8 +81,11 @@ $(document).ready(function() {
         if (isScrolledIntoView($("#sql_progress"))) {
             $("#sql_progress").css("width", "85%");
         }
+        if (isScrolledIntoView($("#nosql_progress"))) {
+            $("#nosql_progress").css("width", "70%");
+        }
         if (isScrolledIntoView($("#wordpress_progress"))) {
-            $("#wordpress_progress").css("width", "70%");
+            $("#wordpress_progress").css("width", "65%");
         }
         
     });

@@ -14,7 +14,8 @@
     "pin": "95112"
   },
   "links": {
-    "LinkedIn": "https://in.linkedin.com/in/gaurangmhatre"
+    "LinkedIn": "https://in.linkedin.com/in/gaurangmhatre",
+    "Github":"https://github.com/gaurangmhatre"
   },
   "skills": {
     "programming_languages": [
@@ -52,22 +53,20 @@
   },
   "things_i_know": [
     "SqlDbx",
-    "Phonegap",
-    "Android Development",
+    "Express",
+    "RabbitMQ",
+    "MongoDB",
     "Git",
     "Microsoft Online TFS",
     "MySQL",
-    "Android Studio",
-    "Visual Studio",
-    "NetBeans",
-    "Linux (Ubuntu, Backtrack)",
-    "Windows",
     "PhotoShop",
-    "Eclipse",
-    "Oracle 10g",
-    "MongoDB",
+    "WebStrom",
+    "Oracle 10g",   
     "JUnit",
     "NUnit"
+    "Phonegap",
+    "Linux (Ubuntu, Backtrack)",
+    "Android Develpment",
       
   ],
   "timeline": {
