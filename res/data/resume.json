@@ -70,10 +70,12 @@
       
   ],
   "timeline": {
+      
+      
     "FEB 2016": [
       {
         "type": "Project",
-        "title": "Developing a visualization dashboard using Angular JS for Portfolio Rebalancer",
+        "title": "Portfolio Rebalancer",
         "desc": [
           "Developed an AngularJS based visualization dashboard for Rebalancer.",
           "Developed a REST framework using ASP.net and AngularJS to communicate with the IIS to issue a query and fetch the results.",
