@@ -49,10 +49,10 @@ $(document).ready(function() {
         }
 
         if (isScrolledIntoView($("#csharp_progress"))) {
-            $("#csharp_progress").css("width", "85%");
+            $("#csharp_progress").css("width", "80%");
         }
         if (isScrolledIntoView($("#java_progress"))) {
-            $("#java_progress").css("width", "87%");
+            $("#java_progress").css("width", "95%");
         }
         if (isScrolledIntoView($("#c_progress"))) {
             $("#c_progress").css("width", "65%");
@@ -64,13 +64,13 @@ $(document).ready(function() {
             $("#css_progress").css("width", "80%");
         }
         if (isScrolledIntoView($("#js_progress"))) {
-            $("#js_progress").css("width", "77%");
+            $("#js_progress").css("width", "85%");
         }
         if (isScrolledIntoView($("#angular_progress"))) {
-            $("#angular_progress").css("width", "74%");
+            $("#angular_progress").css("width", "80%");
         }
         if (isScrolledIntoView($("#node_progress"))) {
-            $("#node_progress").css("width", "75%");
+            $("#node_progress").css("width", "85%");
         }
         if (isScrolledIntoView($("#php_progress"))) {
             $("#php_progress").css("width", "55%");
@@ -79,10 +79,10 @@ $(document).ready(function() {
             $("#bootstrap_progress").css("width", "95%");
         }
         if (isScrolledIntoView($("#sql_progress"))) {
-            $("#sql_progress").css("width", "85%");
+            $("#sql_progress").css("width", "90%");
         }
         if (isScrolledIntoView($("#nosql_progress"))) {
-            $("#nosql_progress").css("width", "70%");
+            $("#nosql_progress").css("width", "80%");
         }
         if (isScrolledIntoView($("#wordpress_progress"))) {
             $("#wordpress_progress").css("width", "65%");

@@ -52,26 +52,39 @@
     ]
   },
   "things_i_know": [
-    "SqlDbx",
     "Express",
     "RabbitMQ",
+    "Kafka",
+    "Redis",
+    "Hadoop",
+    "Spark",
+    "MapR",
     "MongoDB",
     "Git",
     "Microsoft Online TFS",
     "MySQL",
     "PhotoShop",
-    "WebStrom",
     "Oracle 10g",   
     "JUnit",
     "NUnit",
     "Phonegap",
-    "Linux (Ubuntu, Backtrack)",
+    "Linux",
+    "Automation Testing",
     "Android Develpment"
       
   ],
   "timeline": {
-      
-      
+     "AUG 2016": [
+      {
+        "type": "Life",
+        "title": "Started Masters at San Jose State University",
+        "desc": [
+          "Specialization in Cloud computing and Data Mining.",
+          "Focused on Distributed Computing."
+        ],
+        "link": ""
+      }
+    ], 
     "FEB 2016": [
       {
         "type": "Project",
